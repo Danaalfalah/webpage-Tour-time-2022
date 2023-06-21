@@ -1,0 +1,48 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.div1 .carousel img {
+    height: 500px;
+    /* margin-top: -140px; */
+}
+
+nav {
+    position: fixed;
+    background-color: black;
+    opacity: 1;
+}
+
+.section4 {
+    height: auto;
+    margin: 20px;
+    /* display: flex; */
+    text-align: center;
+    justify-content: center;
+}
+
+.section4 .headTitle h1 {
+    margin: 50px;
+}
+
+.section4 .btn .btn-group {
+    margin: 40px;
+}
+
+.section4 .container .card {
+    /* position: relative;
+    display: flex;
+    text-align: center; */
+    /* justify-content: center; */
+    margin: 20px;
+    width: auto;
+    height: 450px;
+    background-color: rgb(255, 250, 241);
+}
+
+.section4 .container .card img {
+    width: auto;
+    justify-content: center;
+    height: 200px;
+    opacity: 0.8;
+}
